@@ -9,7 +9,7 @@
 
 <!-- Body -->
 <br>
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://i.pinimg.com/736x/6f/26/76/6f2676441eb202508935d928f48edc40.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
